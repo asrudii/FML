@@ -3492,6 +3492,12 @@ fieldset[disabled] .btn-neutral.active {
         -moz-animation-fill-mode: forwards;
         animation-fill-mode: forwards;
     }
+
+    .btn-transaksi {
+        margin: 20px;
+        padding: 20px;
+    }
+
     @keyframes topbar-x {
         0% {
             top: 0px;
